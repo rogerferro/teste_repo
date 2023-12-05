@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Teste de código go")
+	fmt.Println("Teste de código:")
 }
